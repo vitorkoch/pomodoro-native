@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Koch Pomodoro",
+    "slug": "pomodoro-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
